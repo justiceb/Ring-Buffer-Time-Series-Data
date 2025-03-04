@@ -14,6 +14,7 @@
 		<Item Name="Read Latest Value.vi" Type="VI" URL="../API/Read Latest Value.vi"/>
 		<Item Name="Set Buffer Size.vi" Type="VI" URL="../API/Set Buffer Size.vi"/>
 		<Item Name="Write Array.vi" Type="VI" URL="../API/Write Array.vi"/>
+		<Item Name="Write Scalar ValueChange.vi" Type="VI" URL="../API/Write Scalar ValueChange.vi"/>
 		<Item Name="Write Scalar.vi" Type="VI" URL="../API/Write Scalar.vi"/>
 	</Item>
 	<Item Name="Primitives" Type="Folder">
