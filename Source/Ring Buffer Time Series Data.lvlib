@@ -11,6 +11,7 @@
 		<Item Name="Destroy.vi" Type="VI" URL="../API/Destroy.vi"/>
 		<Item Name="New.vi" Type="VI" URL="../API/New.vi"/>
 		<Item Name="Read Full Rotated Buffer.vi" Type="VI" URL="../API/Read Full Rotated Buffer.vi"/>
+		<Item Name="Read Latest 2 Values.vi" Type="VI" URL="../API/Read Latest 2 Values.vi"/>
 		<Item Name="Read Latest Value.vi" Type="VI" URL="../API/Read Latest Value.vi"/>
 		<Item Name="Set Buffer Size.vi" Type="VI" URL="../API/Set Buffer Size.vi"/>
 		<Item Name="Write Array.vi" Type="VI" URL="../API/Write Array.vi"/>
