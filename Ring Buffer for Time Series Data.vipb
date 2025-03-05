@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2023-07-17 13:03:54" Modified_Date="2025-03-04 18:37:32" Creator="bjustice" Comments="" ID="e78a6f0658ad869499dc34b410c55ca3">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2023-07-17 13:03:54" Modified_Date="2025-03-04 19:51:05" Creator="bjustice" Comments="" ID="1d1d07fae564debbc21adf06911b8e23">
   <Library_General_Settings>
     <Package_File_Name>bjustice_lib_Ring_Buffer_for_Time_Series_Data</Package_File_Name>
-    <Library_Version>1.0.4.6</Library_Version>
+    <Library_Version>1.0.5.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -356,7 +356,7 @@
         <Path>Source\API\Write Scalar ValueChange.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>ACE4CAB38F3E74EBA0DCF11F4E5CD769</GUID>
+      <GUID>963E57C340B743E9FC60FD2940E85B49</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
