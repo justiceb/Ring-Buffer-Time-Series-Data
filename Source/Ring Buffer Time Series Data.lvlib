@@ -8,35 +8,36 @@
 
 </Property>
 	<Item Name="API" Type="Folder">
-		<Item Name="Destroy.vi" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/API/Destroy.vi"/>
-		<Item Name="New.vi" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/API/New.vi"/>
-		<Item Name="Read Full Rotated Buffer.vi" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/API/Read Full Rotated Buffer.vi"/>
-		<Item Name="Read Latest 2 Values.vi" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/API/Read Latest 2 Values.vi"/>
-		<Item Name="Read Latest Value.vi" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/API/Read Latest Value.vi"/>
-		<Item Name="Set Buffer Size.vi" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/API/Set Buffer Size.vi"/>
-		<Item Name="Write Array.vi" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/API/Write Array.vi"/>
-		<Item Name="Write Scalar ValueChange.vi" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/API/Write Scalar ValueChange.vi"/>
-		<Item Name="Write Scalar.vi" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/API/Write Scalar.vi"/>
+		<Item Name="Clear Buffer.vi" Type="VI" URL="../API/Clear Buffer.vi"/>
+		<Item Name="Destroy.vi" Type="VI" URL="../API/Destroy.vi"/>
+		<Item Name="New.vi" Type="VI" URL="../API/New.vi"/>
+		<Item Name="Read Full Rotated Buffer.vi" Type="VI" URL="../API/Read Full Rotated Buffer.vi"/>
+		<Item Name="Read Latest 2 Values.vi" Type="VI" URL="../API/Read Latest 2 Values.vi"/>
+		<Item Name="Read Latest Value.vi" Type="VI" URL="../API/Read Latest Value.vi"/>
+		<Item Name="Set Buffer Size.vi" Type="VI" URL="../API/Set Buffer Size.vi"/>
+		<Item Name="Write Array.vi" Type="VI" URL="../API/Write Array.vi"/>
+		<Item Name="Write Scalar ValueChange.vi" Type="VI" URL="../API/Write Scalar ValueChange.vi"/>
+		<Item Name="Write Scalar.vi" Type="VI" URL="../API/Write Scalar.vi"/>
 	</Item>
 	<Item Name="Primitives" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Replace Values Array Multiple Timestamps.vi" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/SubVIs/Replace Values Array Multiple Timestamps.vi"/>
-		<Item Name="Replace Values Array One Timestamp.vi" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/SubVIs/Replace Values Array One Timestamp.vi"/>
-		<Item Name="Replace Values Array.vim" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/SubVIs/Replace Values Array.vim"/>
-		<Item Name="Split Values Array.vi" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/SubVIs/Split Values Array.vi"/>
+		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+		<Item Name="Replace Values Array Multiple Timestamps.vi" Type="VI" URL="../SubVIs/Replace Values Array Multiple Timestamps.vi"/>
+		<Item Name="Replace Values Array One Timestamp.vi" Type="VI" URL="../SubVIs/Replace Values Array One Timestamp.vi"/>
+		<Item Name="Replace Values Array.vim" Type="VI" URL="../SubVIs/Replace Values Array.vim"/>
+		<Item Name="Split Values Array.vi" Type="VI" URL="../SubVIs/Split Values Array.vi"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Enforce array size multiple timestamps.vi" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/SubVIs/Enforce array size multiple timestamps.vi"/>
-		<Item Name="Enforce array size one timestamp.vi" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/SubVIs/Enforce array size one timestamp.vi"/>
-		<Item Name="Enforce array size.vim" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/SubVIs/Enforce array size.vim"/>
-		<Item Name="New Buffer with data.vi" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/SubVIs/New Buffer with data.vi"/>
-		<Item Name="Newest Value Index.vi" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/SubVIs/Newest Value Index.vi"/>
-		<Item Name="Rotate Buffer.vi" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/SubVIs/Rotate Buffer.vi"/>
+		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+		<Item Name="Enforce array size multiple timestamps.vi" Type="VI" URL="../SubVIs/Enforce array size multiple timestamps.vi"/>
+		<Item Name="Enforce array size one timestamp.vi" Type="VI" URL="../SubVIs/Enforce array size one timestamp.vi"/>
+		<Item Name="Enforce array size.vim" Type="VI" URL="../SubVIs/Enforce array size.vim"/>
+		<Item Name="New Buffer with data.vi" Type="VI" URL="../SubVIs/New Buffer with data.vi"/>
+		<Item Name="Newest Value Index.vi" Type="VI" URL="../SubVIs/Newest Value Index.vi"/>
+		<Item Name="Rotate Buffer.vi" Type="VI" URL="../SubVIs/Rotate Buffer.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
-		<Item Name="DVR data.ctl" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/SubVIs/DVR data.ctl"/>
+		<Item Name="DVR data.ctl" Type="VI" URL="../SubVIs/DVR data.ctl"/>
 	</Item>
-	<Item Name="API Poly.vi" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/API Poly.vi"/>
-	<Item Name="Demo.vi" Type="VI" URL="/&lt;userlib&gt;/bjustice/Ring Buffer for Time Series Data/Demo.vi"/>
+	<Item Name="API Poly.vi" Type="VI" URL="../API Poly.vi"/>
+	<Item Name="Demo.vi" Type="VI" URL="../Demo.vi"/>
 </Library>
