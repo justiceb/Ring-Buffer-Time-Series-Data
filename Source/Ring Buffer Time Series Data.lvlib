@@ -37,6 +37,7 @@
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="DVR data.ctl" Type="VI" URL="../SubVIs/DVR data.ctl"/>
+		<Item Name="padding strategy.ctl" Type="VI" URL="../SubVIs/padding strategy.ctl"/>
 	</Item>
 	<Item Name="API Poly.vi" Type="VI" URL="../API Poly.vi"/>
 	<Item Name="Demo.vi" Type="VI" URL="../Demo.vi"/>
