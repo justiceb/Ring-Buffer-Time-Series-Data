@@ -28,6 +28,7 @@
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+		<Item Name="empty buffer check.vi" Type="VI" URL="../SubVIs/empty buffer check.vi"/>
 		<Item Name="Enforce array size multiple timestamps.vi" Type="VI" URL="../SubVIs/Enforce array size multiple timestamps.vi"/>
 		<Item Name="Enforce array size one timestamp.vi" Type="VI" URL="../SubVIs/Enforce array size one timestamp.vi"/>
 		<Item Name="Enforce array size.vim" Type="VI" URL="../SubVIs/Enforce array size.vim"/>
