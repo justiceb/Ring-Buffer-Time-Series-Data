@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2023-07-17 13:03:54" Modified_Date="2026-06-12 11:15:10" Creator="bjustice" Comments="" ID="83baac31e4a902a94a55790e7dae9663">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2023-07-17 13:03:54" Modified_Date="2026-06-18 11:04:39" Creator="bjustice" Comments="" ID="f9cb9ae2cfd0b7536897f999fc3b98ab">
   <Library_General_Settings>
     <Package_File_Name>bjustice_lib_Ring_Buffer_for_Time_Series_Data</Package_File_Name>
-    <Library_Version>1.2.0.10</Library_Version>
+    <Library_Version>1.2.1.11</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager/>
       <URL>https://github.com/justiceb/Ring-Buffer-Time-Series-Data</URL>
-      <Release_Notes>add empty buffer check</Release_Notes>
+      <Release_Notes>write value change always writes if buffer is empty</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -354,7 +354,7 @@
         <Path>Source\API\Write Scalar ValueChange.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6DFF7D04E2AA2C840E3C42129A70A4EA</GUID>
+      <GUID>F0B9AF35D4678F434E6BCF78FD9E0245</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
